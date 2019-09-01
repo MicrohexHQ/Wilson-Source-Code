@@ -1,4 +1,4 @@
-# Wilson Source Code
+# Wilson Source Code 
 This is a repository where I commit a cut down version of my discord bot. Feel free to clone this and use it to write your own! I have removed a lot of the features so you'll need to fill in the gaps yourself. I'd also recommend writing your own commands/ structure, though feel free to use this repo as a reference. Be sure to credit me [@RogueSensei](https://github.com/RogueSensei/) :smile:
 ## Wilson
 Wilson is a Discord Bot using the [discord.py](https://discordpy.readthedocs.io/en/latest/) API. His commands include general chat fun, moderation commands, sniffing out and shunning pings to himself or `@everyone` and generally being an ass.
